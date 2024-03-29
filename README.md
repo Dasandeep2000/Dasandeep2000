@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Dasandeep2000
 - 👀 I’m interested in Web designing 
 - 🌱 I’m currently learning fullstack development 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me through social link & dasandeep2000@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: Keep coding and stay octo-awesome! 🎉🐙
